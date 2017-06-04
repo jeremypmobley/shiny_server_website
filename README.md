@@ -17,12 +17,12 @@ Steps:
 4) Choose an Instance Type  
 ![alt tag](https://github.com/jeremypmobley/shiny_server_website/blob/master/README_pics/general_purpose_node.PNG)  
  * The default t2 micro should be fine to host a simple shiny server application  
-	 * Costs $0.012 per Hour
+	 * [Costs] (https://aws.amazon.com/ec2/pricing/) $0.012 per Hour
 
 5) Configure Instance  
  * Options for termination protection  
  * Options for requesting spot instances (not available for t2.micro)  
- * 
+
 6) Add storage, tags - optional
 
 7) Configure Security group
