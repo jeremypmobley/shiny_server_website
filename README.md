@@ -14,7 +14,8 @@ Steps:
 3) Choose AMI of EC2 node  
 ![alt tag](https://github.com/jeremypmobley/shiny_server_website/blob/master/README_pics/Choose_AMI.PNG)  
 
-4) Choose EC2 node type
+4) Choose an Instance Type  
+![alt tag](https://github.com/jeremypmobley/shiny_server_website/blob/master/README_pics/general_purpose_node.PNG)  
 
 
 5) Choose software packages...
