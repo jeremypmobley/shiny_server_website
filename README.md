@@ -18,7 +18,40 @@ Steps:
 ![alt tag](https://github.com/jeremypmobley/shiny_server_website/blob/master/README_pics/general_purpose_node.PNG)  
 
 
-5) Choose software packages...
+5) Configure Instance  
+ * Options for termination protection  
+ * Options for requesting spot instances (not available for t2.micro)  
+ * 
+6) Add storage, tags - optional
+
+7) Configure Security group
+
+8) Launch
+
+9) Connect
+
+
+### OK, now we have an EC2 node! Now what?!
+
+Necessary steps to set up R Shiny Server
+Download R
+Download R Shiny Server
+Configure R Shiny Server
+
+
+
+### Get static IP address
+
+* Show options for how to assign static IP to EC2 node
+
+
+
+### Get domain name
+
+
+
+### Tie domain name to IP address
+
 
 
 
